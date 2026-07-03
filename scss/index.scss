@@ -2,13 +2,14 @@
 @import "footer";
 
 body {
-    background: silver;
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .search_form{
     background-color: green;
     padding: 1rem;
 }
 .search_form--input {
-        background: yellow;
+        background: pink;
         border-radius: 10px;
 }
