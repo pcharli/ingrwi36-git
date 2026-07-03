@@ -8,7 +8,8 @@ footer {
 }
 
 body {
-  background: silver;
+  background: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .search_form {
@@ -17,6 +18,6 @@ body {
 }
 
 .search_form--input {
-  background: yellow;
+  background: pink;
   border-radius: 10px;
 }/*# sourceMappingURL=index.css.map */

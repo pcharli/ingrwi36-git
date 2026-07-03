@@ -1,5 +1,1 @@
-header{background-color:blue}footer{background-color:#f0f;height:100px}body{background:silver}.search_form{background-color:green;padding:1rem}.search_form--input{background:#ff0;border-radius:10px}/*# sourceMappingURL=index.min.css.map */
-.max{
-  display: grid;
-  grid-template-columns: repeat(2, 50rem);
-}
+header{background-color:blue}footer{background-color:#f0f;height:100px}body{background:pink;font-family:Verdana,Geneva,Tahoma,sans-serif}.search_form{background-color:green;padding:1rem}.search_form--input{background:pink;border-radius:10px}/*# sourceMappingURL=index.min.css.map */
