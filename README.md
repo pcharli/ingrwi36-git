@@ -1,4 +1,4 @@
-# Découerte de Git
+# Découverte de Git
 ## Pour les wi36
 lorem ipsum
 
